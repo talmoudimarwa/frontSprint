@@ -1,0 +1,28 @@
+.image{
+    margin: 50px 0 50px 0;
+    text-align: center;
+
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    width:20%;
+
+    padding-left:780px;
+}
+
+
+.creat{
+    color: red;
+    text-align: center;
+    
+}
+.icon{
+    text-align: center;
+    width:10%;
+margin-left: 600px;
+display: flex;
+justify-content: space-between;
+
+}

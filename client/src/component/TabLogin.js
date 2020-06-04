@@ -1,0 +1,48 @@
+export const TabLoginHelper =[
+    { id:Math.random(),
+        name: "marwatalmoudi ",
+        email: "talmoudimarwa@gmail.com",
+        password: "123456",
+        telephone:"123456",
+        role: 0,
+    },
+    { id:Math.random(),
+        name: "mohamedmd",
+        email: "mdmohamed@gmail.com",
+        password: "123456",
+        telephone:"123456",
+        role: 0,
+    },
+    { id:Math.random(),
+        name: "jobran",
+        email: "jobran41@gmail.com",
+        password: "11111111",
+        telephone:"11111111",
+        role: 0,
+    }
+]
+
+
+export default  [
+    { id:Math.random(),
+        name: "marwatalmoudi ",
+        email: "talmoudimarwa@gmail.com",
+        password: "123456",
+        password2:"123456",
+        role: 0,
+    },
+    { id:Math.random(),
+        name: "mohamedmd",
+        email: "mdmohamed@gmail.com",
+        password: "123456",
+        password2:"123456",
+        role: 0,
+    },
+    { id:Math.random(),
+        name: "jobran",
+        email: "jobran@gmail.com",
+        password: "123456",
+        password2:"123456",
+        role: 0,
+    }
+]
